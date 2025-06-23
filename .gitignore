@@ -1,0 +1,42 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# Node
+frontend/node_modules/
+frontend/.env
+
+# OS
+.DS_Store
+Thumbs.db
+# Python virtual environment
+venv/
+
+# Compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE/editor config
+.vscode/
+.idea/
+*.swp
+# Node modules (frontend)
+frontend/node_modules/
+frontend/.env
+
+# Python virtual env
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# System files
+.DS_Store
+Thumbs.db
